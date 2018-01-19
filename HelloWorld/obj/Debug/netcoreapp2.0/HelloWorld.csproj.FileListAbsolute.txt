@@ -1,0 +1,10 @@
+/Users/sindhurayalamanchili/Desktop/VSCode2018/CSharp/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.deps.json
+/Users/sindhurayalamanchili/Desktop/VSCode2018/CSharp/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.runtimeconfig.json
+/Users/sindhurayalamanchili/Desktop/VSCode2018/CSharp/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.runtimeconfig.dev.json
+/Users/sindhurayalamanchili/Desktop/VSCode2018/CSharp/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.dll
+/Users/sindhurayalamanchili/Desktop/VSCode2018/CSharp/HelloWorld/bin/Debug/netcoreapp2.0/HelloWorld.pdb
+/Users/sindhurayalamanchili/Desktop/VSCode2018/CSharp/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/sindhurayalamanchili/Desktop/VSCode2018/CSharp/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/sindhurayalamanchili/Desktop/VSCode2018/CSharp/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.AssemblyInfo.cs
+/Users/sindhurayalamanchili/Desktop/VSCode2018/CSharp/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.dll
+/Users/sindhurayalamanchili/Desktop/VSCode2018/CSharp/HelloWorld/obj/Debug/netcoreapp2.0/HelloWorld.pdb
